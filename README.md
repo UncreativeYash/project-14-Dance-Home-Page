@@ -4,6 +4,7 @@
 ## What I have learned 
 
 - Applied all the concept learnt till now
+- text-stroke in css
 ---
 ## Time Consumed
 
